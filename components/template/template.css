@@ -1,0 +1,13 @@
+@import "../header/header.css";
+@import "../header/mode/mode.css";
+@import "../template/footer/footer.css";
+@import "../template/header/header.css";
+@import "../template/main/main.css";
+@import "../template/main/menu/menu.css";
+@import "../template/main/component/component.css";
+@import "../template/page/page.css";
+@import "../../components/histogram/histogram.css";
+@import "../../components/toggler/toggler.css";
+html, body {
+    height: 100%;
+}
