@@ -1,3 +1,4 @@
-Open any files with live server, the project uses svg-sprite*
+Here is the 'Reusable component library' project, which I developed while studying the 'Modern HTML and CSS' course.
+You can test it via GitHub pages using this link: https://achegevara.github.io/reusable-component-library/
 
-Here is the 'Reusable component library' project, which I developed while studying on the 'Modern HTML and CSS' course.
+In case you download project files and open project locally, please open any files with live server, the project uses svg-sprite.*
